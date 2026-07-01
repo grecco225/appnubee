@@ -4,3 +4,6 @@ __pycache__/
 .vscode/
 .idea/
 *.log
+
+# Variables de entorno (credenciales) — ¡NUNCA subir a Git!
+.env
